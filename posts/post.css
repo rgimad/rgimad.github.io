@@ -1,0 +1,52 @@
+html {
+    font-family: Roboto, sans-serif;
+    font-size: 14pt;
+}
+
+body {
+    max-width: 960px;
+    min-width: 960px;
+    margin: 0 auto 0 auto;
+    margin-top: 2em;
+    background: rgb(208, 225, 249);
+}
+
+.content {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+h1, h2 {
+    margin: 1.5em 0 1.5em 0;
+}
+
+p {
+    text-align: justify;
+    padding-bottom: .4em;
+}
+
+code {
+    font-family: monospace;
+    background-color: #eaeaea;
+    font-size: 16px;
+}
+
+pre > code {
+    background-color: transparent;
+    /* font-size: 14px; */
+}
+
+pre {
+    font-size: 14px;
+    line-height: 1.3em;
+    padding: 5px;
+}
+
+/* 
+footer {
+    padding-bottom: 1em;
+}
+
+li {
+    padding: .2em 0;
+} */
