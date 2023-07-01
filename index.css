@@ -1,0 +1,31 @@
+html {
+    font-family: Roboto, sans-serif;
+    font-size: 14pt;
+  }
+  
+  body {
+    max-width: 960px;
+    min-width: 960px;
+    margin: 0 auto 0 auto;
+    margin-top: 2em;
+    background: rgb(208, 225, 249);
+  }
+  
+  h1 {
+    margin: 0;
+    padding-top: .5em;
+    padding-bottom: .5em;
+  }
+  
+  .content {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+  
+  footer {
+    padding-bottom: 1em;
+  }
+  
+  li {
+    padding: .2em 0;
+  }
